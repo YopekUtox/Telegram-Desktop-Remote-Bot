@@ -7,7 +7,7 @@ Just a few steps 🧤
 - **Install libary:** 
   - [pip install python-telegram-bot](https://python-telegram-bot.org/)
 - [**Download Setvol**](https://www.rlatour.com/setvol/)
-  -Link: https://www.rlatour.com/setvol/
+  - Link: https://www.rlatour.com/setvol/
 - **Configure:** 🔌
   - *#1* - Find a bot called "BotFather" on telegram and create a new bot.
   - *#2* - Put generated token in the designated place in the code.   
